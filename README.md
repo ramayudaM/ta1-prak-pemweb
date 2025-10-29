@@ -5,3 +5,5 @@ Nama: Ramayuda Mahardika
 NPM: 2315061126
 
 Kelas: PW B
+
+![Preview Tampilan](image/preview.png)
