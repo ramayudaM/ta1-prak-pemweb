@@ -57,7 +57,13 @@ image/
    - Sunting `index.html` untuk mengubah teks, gambar, atau tautan.
    - Sunting `style.css` untuk mengubah tampilan.
 
-## Menampilkan screenshot Git log
+## Menampilkan preview tampilan (TA 1)
+
+judul: preview tampilan 
+
+![Preview Tampilan Prtofolio](image/preview.png)
+
+## Menampilkan screenshot Git log (TA 2)
 
 Judul: git log --graph --oneline
 
